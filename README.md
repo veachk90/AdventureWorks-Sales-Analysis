@@ -1,7 +1,7 @@
 # AdventureWorks-Sales-Analysis
 
 #### Overview
-This is an analysis of available sales data for AdventureWorks, a retailer of bicycles, parts, and apparel. The goal is to provide visualization of trends and figures that could be helpful to key business leaders. It consists of three sheets: first, a simple line graph showing overall sales over a span of three years; second, a breakdown of sales channel by product category; and finally, a series of charts that show profits from each product category. These visualizations demonstrate that Microsoft's Power BI is an effective tool for analyzing data and presenting insights.
+This is an analysis of available sales data for AdventureWorks, a retailer of bicycles, parts, and apparel. The goal is to provide visualization of trends and figures that could be helpful to key business leaders. It consists of three sheets: first, a simple line graph showing overall sales over a span of three years; second, a breakdown of sales channels by product category; and finally, a series of charts that show profits from each product category. These visualizations demonstrate that Microsoft's Power BI is an effective tool for analyzing data and presenting insights.
 
 #### Data
 The data are provided in the form of an Excel file with multiple sheets. This file is freely available for download from Microsoft's website https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-dimensional-model-report#get-data-download-the-sample. 
